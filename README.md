@@ -13,3 +13,9 @@ yo moderweb
 ? Express Port 7000
 
 grunt --force
+
+git init
+
+git add .
+
+git commit -m "First commit"
